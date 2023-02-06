@@ -1,0 +1,22 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Heading {
+    font-size: 24px;
+    text-align: center;
+    color: rgb(77, 20, 20);
+    background-color: rgb(167, 223, 223);
+    font-weight: 1000;
+}
+
+div {
+    background-color: rgba(130, 247, 130, 0.301);
+    color: chocolate;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: justify;
+}
+.button {
+    background-color: black;
+    color: white;
+}
