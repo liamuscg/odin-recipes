@@ -1,22 +1,24 @@
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 600px;
+    margin: auto;
 }
 .Heading {
     font-size: 24px;
     text-align: center;
-    color: rgb(77, 20, 20);
-    background-color: rgb(167, 223, 223);
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    background-color: rgb(129, 129, 129);
     font-weight: 1000;
-}
-
-div {
-    background-color: rgba(130, 247, 130, 0.301);
-    color: chocolate;
-    font-size: 18px;
-    font-weight: 600;
-    text-align: justify;
+    border: 3px solid rgb(109, 28, 28);
 }
 .button {
-    background-color: black;
-    color: white;
+    background-color: rgba(33, 105, 4, 0.726);
+    color: rgb(56, 34, 18);
+    font-size: 18px;
+    font-weight: 600;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 10px;
+    box-align: center;
 }
